@@ -35,7 +35,7 @@
   <section class="container">
     <div class="menu row mobile__menu">
       <ul class="list col-lg-6">
-        <li><a href="/create/create.php">Just ride</a></li>
+        <li><a href="https://testhomework.ru/">Just ride</a></li>
         <li><a href="/create/create.php">About</a></li>
         <li><a href="/create/create.php">Features</a></li>
         <li><a href="/create/create.php">Specifications</a></li>
@@ -50,7 +50,7 @@
           <h2 class="logo">VANMOOF</h2> 
           <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
           <div class="burger__list">
-            <a href="/create/create.php">Just ride</a>
+            <a href="https://testhomework.ru/">Just ride</a>
             <a href="/create/create.php">About</a>
             <a href="/create/create.php">Features</a>
             <a href="/create/create.php">Specifications</a>
