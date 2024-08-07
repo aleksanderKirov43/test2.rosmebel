@@ -1,0 +1,70 @@
+@media (max-width: 993px) {
+  .time__blok {
+    justify-content: flex-start;
+    padding-top: 20px;
+  }
+  .header__blok p {
+    width: 100%;
+  }
+  .header__blok {
+    background-position: inherit;
+  }
+  .logo {
+    padding: 20px 10px;
+  }
+}
+@media (max-width: 600px) {
+  .header__blok {
+    background-image: none;
+    height: auto;
+  }
+  .header__blok h1 {
+    text-align: center;
+    font-family: "Michroma";
+    font-size: 2em;
+  }
+  .header__blok p {
+    font-size: 0.95em;
+    text-align: center;
+    padding-top: 20px;
+  }
+  .mobil__banner {
+    display: block;
+  }
+  .list {
+    display: none;
+  }
+  .time__blok {
+    display: none;
+  }
+  .time__blok img {
+    width: 2.5em;
+    height: 1.8em;
+  }
+  .blok__image {
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+  }
+  .blok__image img {
+    max-width: -webkit-fill-available;
+    display: flex;
+    object-fit: cover;
+  }
+  .button__blok {
+    text-align: center;
+  }
+  .button__blok button {
+    margin: 20px 0;
+  }
+  .burger__menu {
+    display: block;
+  }
+  .mobile__menu .logo {
+    max-width: 50%;
+  }
+  .burger__menu {
+    max-width: 50%;
+    text-align: end;
+  }
+}
