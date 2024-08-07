@@ -15,9 +15,9 @@
 
   <section class="mobil__banner">
     <div class="blok__image">
-      <img src="/image/fon.webp" alt="fon company VANMOOF">
+      <img src="/image/fon.jpg" alt="fon company VANMOOF">
   </section>
-  </div>
+  </div> 
 
 
   <section id="modal" class="modal">

@@ -47,7 +47,7 @@
     padding-top: 30px;
   }
   .blok__image img {
-    max-width: -webkit-fill-available;
+    max-width: 100%;
     display: flex;
     object-fit: cover;
   }

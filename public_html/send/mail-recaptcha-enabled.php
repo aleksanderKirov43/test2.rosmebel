@@ -9,7 +9,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $email = html_entity_decode(trim(htmlspecialchars(urldecode($email))));
 
 
-    $senderEmail = 'admin@https://testhomework.ru/'; // Электронная почта отправителя
+    $senderEmail = 'admin@gomeopatia38.ru'; // Электронная почта отправителя
     $recipientEmail = 'region-manager43@yandex.ru'; // Ваша электронная почта
     $counter_file = 'count.txt';
 
